@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/V-vumika/LeetCode-Progress/tree/master/1020-number-of-enclaves) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
