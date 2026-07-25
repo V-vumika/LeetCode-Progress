@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/V-vumika/LeetCode-Progress/tree/master/0043-multiply-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/V-vumika/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -61,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0015-3sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/V-vumika/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
