@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 | [1020-number-of-enclaves](https://github.com/V-vumika/LeetCode-Progress/tree/master/1020-number-of-enclaves) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/V-vumika/LeetCode-Progress/tree/master/0043-multiply-strings) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/V-vumika/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -100,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
