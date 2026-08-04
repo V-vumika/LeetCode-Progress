@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/V-vumika/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1406-stone-game-iii) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
