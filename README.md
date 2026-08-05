@@ -38,10 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/V-vumika/LeetCode-Progress/tree/master/1020-number-of-enclaves) |
+| [3310-remove-methods-from-project](https://github.com/V-vumika/LeetCode-Progress/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1020-number-of-enclaves](https://github.com/V-vumika/LeetCode-Progress/tree/master/1020-number-of-enclaves) |
+| [3310-remove-methods-from-project](https://github.com/V-vumika/LeetCode-Progress/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/3731-find-missing-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/V-vumika/LeetCode-Progress/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
