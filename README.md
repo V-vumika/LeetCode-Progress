@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/V-vumika/LeetCode-Progress/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
