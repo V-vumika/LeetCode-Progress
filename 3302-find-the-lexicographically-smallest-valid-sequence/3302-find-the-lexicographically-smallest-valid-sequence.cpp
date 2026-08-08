@@ -21,7 +21,7 @@ public:
         }
 
         vector<int> seq;
-        bool changePower = true; // can change only one character
+        bool changePower = true;
 
         i = 0;
         j = 0;
@@ -31,7 +31,7 @@ public:
                 seq.push_back(i);
                 j++;
             }
-            else if (changePower == true &&
+            else if (changePower &&
                      i + 1 < n &&
                      rightHandSideMatchLength[i + 1] >= m - j - 1) {
                 seq.push_back(i);
