@@ -1,44 +1,47 @@
 class Solution {
 public:
     vector<int> validSequence(string word1, string word2) {
-        int n = word1.size();
-        int m = word2.size();
+        int n = word1.length();
+        int m = word2.length();
 
-        vector<int> right(n);
+        vector<int> rightHandSideMatchLength(n, 0);
+
+        int rightMatched = 0;
+        int i = n - 1;
         int j = m - 1;
-        int cnt = 0;
 
-        for (int i = n - 1; i >= 0; --i) {
+        while (i >= 0) {
             if (j >= 0 && word1[i] == word2[j]) {
-                ++cnt;
-                --j;
+                rightMatched++;
+                j--;
             }
-            right[i] = cnt;
+
+            rightHandSideMatchLength[i] = rightMatched;
+            i--;
         }
 
-        vector<int> ans;
-        ans.reserve(m);
+        vector<int> seq;
+        bool changePower = true; 
 
-        bool changed = false;
+        i = 0;
         j = 0;
 
-        for (int i = 0; i < n && j < m; ++i) {
+        while (i < n && j < m) {
             if (word1[i] == word2[j]) {
-                ans.push_back(i);
-                ++j;
+                seq.push_back(i);
+                j++;
             }
-            else if (!changed &&
+            else if (changePower == true &&
                      i + 1 < n &&
-                     right[i + 1] >= m - j - 1) {
-                ans.push_back(i);
-                ++j;
-                changed = true;
+                     rightHandSideMatchLength[i + 1] >= m - j - 1) {
+                seq.push_back(i);
+                j++;
+                changePower = false;
             }
+
+            i++;
         }
 
-        if (j == m)
-            return ans;
-
-        return {};
+        return j == m ? seq : vector<int>();
     }
 };
