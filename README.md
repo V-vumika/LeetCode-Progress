@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/V-vumika/LeetCode-Progress/tree/master/0043-multiply-strings) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/V-vumika/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -140,5 +143,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
