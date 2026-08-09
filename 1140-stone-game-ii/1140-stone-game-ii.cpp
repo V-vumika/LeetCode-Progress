@@ -2,7 +2,7 @@ class Solution {
 public:
     
     int n;
-    int t[2][101][101]; //t[2][n+1][n+1] - 2*(n+1)*(n+1) ~n^2 * n ~ O(n^3)
+    int t[2][101][101]; 
     int solveForAlice(vector<int>& piles, int person, int i, int M) {
         
         if(i >= n)
