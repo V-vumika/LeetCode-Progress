@@ -2,89 +2,86 @@ class Solution {
 public:
     struct Node {
         int len;
+        int left;
+        int right;
         int pref;
         int suff;
-        int mx;
-        char lc, rc;
+        int best;
 
         Node() {
-            len = pref = suff = mx = 0;
-            lc = rc = '#';
+            len = 0;
+            left = right = -1;
+            pref = suff = best = 0;
         }
     };
 
-    vector<Node> seg;
+    vector<Node> tree;
     string s;
 
     Node merge(Node a, Node b) {
+
         if (a.len == 0) return b;
         if (b.len == 0) return a;
 
         Node res;
 
         res.len = a.len + b.len;
-        res.lc = a.lc;
-        res.rc = b.rc;
+        res.left = a.left;
+        res.right = b.right;
 
         res.pref = a.pref;
         res.suff = b.suff;
 
-        // Prefix can extend
-        if (a.pref == a.len && a.rc == b.lc) {
+        if (a.pref == a.len && a.right == b.left)
             res.pref = a.len + b.pref;
-        }
 
-        // Suffix can extend
-        if (b.suff == b.len && a.rc == b.lc) {
+        if (b.suff == b.len && a.right == b.left)
             res.suff = b.len + a.suff;
-        }
 
-        // Maximum inside either half
-        res.mx = max(a.mx, b.mx);
+        res.best = max(a.best, b.best);
 
-        // Join both halves
-        if (a.rc == b.lc) {
-            res.mx = max(res.mx, a.suff + b.pref);
-        }
+        if (a.right == b.left)
+            res.best = max(res.best, a.suff + b.pref);
 
         return res;
     }
 
-    void build(int node, int l, int r) {
+    void build(int idx, int l, int r) {
+
         if (l == r) {
-            seg[node].len = 1;
-            seg[node].pref = 1;
-            seg[node].suff = 1;
-            seg[node].mx = 1;
-            seg[node].lc = s[l];
-            seg[node].rc = s[l];
+            tree[idx].len = 1;
+            tree[idx].left = s[l] - 'a';
+            tree[idx].right = s[l] - 'a';
+            tree[idx].pref = 1;
+            tree[idx].suff = 1;
+            tree[idx].best = 1;
             return;
         }
 
-        int mid = l + (r - l) / 2;
+        int mid = (l + r) / 2;
 
-        build(node * 2, l, mid);
-        build(node * 2 + 1, mid + 1, r);
+        build(2 * idx, l, mid);
+        build(2 * idx + 1, mid + 1, r);
 
-        seg[node] = merge(seg[node * 2], seg[node * 2 + 1]);
+        tree[idx] = merge(tree[2 * idx], tree[2 * idx + 1]);
     }
 
-    void update(int node, int l, int r, int idx, char ch) {
+    void update(int idx, int l, int r, int pos, char ch) {
+
         if (l == r) {
-            seg[node].lc = ch;
-            seg[node].rc = ch;
+            tree[idx].left = ch - 'a';
+            tree[idx].right = ch - 'a';
             return;
         }
 
-        int mid = l + (r - l) / 2;
+        int mid = (l + r) / 2;
 
-        if (idx <= mid) {
-            update(node * 2, l, mid, idx, ch);
-        } else {
-            update(node * 2 + 1, mid + 1, r, idx, ch);
-        }
+        if (pos <= mid)
+            update(2 * idx, l, mid, pos, ch);
+        else
+            update(2 * idx + 1, mid + 1, r, pos, ch);
 
-        seg[node] = merge(seg[node * 2], seg[node * 2 + 1]);
+        tree[idx] = merge(tree[2 * idx], tree[2 * idx + 1]);
     }
 
     vector<int> longestRepeating(
@@ -92,23 +89,28 @@ public:
         string queryCharacters,
         vector<int>& queryIndices
     ) {
+
         this->s = s;
 
         int n = s.size();
 
-        seg.resize(4 * n + 5);
+        tree.resize(4 * n + 5);
 
         build(1, 0, n - 1);
 
         vector<int> ans;
 
         for (int i = 0; i < queryIndices.size(); i++) {
-            int idx = queryIndices[i];
-            char ch = queryCharacters[i];
 
-            update(1, 0, n - 1, idx, ch);
+            update(
+                1,
+                0,
+                n - 1,
+                queryIndices[i],
+                queryCharacters[i]
+            );
 
-            ans.push_back(seg[1].mx);
+            ans.push_back(tree[1].best);
         }
 
         return ans;
