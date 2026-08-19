@@ -1,34 +1,40 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int, unordered_set<int>> mp; //row -> seats in each row booked
+        unordered_map<int, int> mp;
 
-        for(auto& reservedSeat : reservedSeats) {
-            int row  = reservedSeat[0];
-            int seat = reservedSeat[1];
+        // Store reserved seats as a bitmask for each row
+        for (auto &seat : reservedSeats) {
+            int row = seat[0];
+            int col = seat[1];
 
-            mp[row].insert(seat);
+            mp[row] |= (1 << col);
         }
 
-        int result = (n - mp.size()) * 2;
+        // Initially every row can accommodate 2 groups
+        int ans = 2 * n;
 
-        for(auto& [row, bookedSeats] : mp) {
+        for (auto &[row, mask] : mp) {
+            bool left  = !(mask & ((1 << 2) | (1 << 3) | (1 << 4) | (1 << 5)));
+            bool right = !(mask & ((1 << 6) | (1 << 7) | (1 << 8) | (1 << 9)));
+            bool mid   = !(mask & ((1 << 4) | (1 << 5) | (1 << 6) | (1 << 7)));
 
-            auto isAvailable = [&](int seat) {
-                return bookedSeats.find(seat) == bookedSeats.end();
-            };
+            int groups;
 
-            bool graupA = isAvailable(2) && isAvailable(3) && isAvailable(4) & isAvailable(5);
-            bool graupB = isAvailable(4) && isAvailable(5) && isAvailable(6) & isAvailable(7);
-            bool graupC = isAvailable(6) && isAvailable(7) && isAvailable(8) & isAvailable(9);
+            if (left && right) {
+                groups = 2;
+            }
+            else if (left || right || mid) {
+                groups = 1;
+            }
+            else {
+                groups = 0;
+            }
 
-            if(graupA && graupC)
-                result += 2;
-            else if(graupA || graupB || graupC)
-                result += 1;
-
+            // This row was initially counted as 2
+            ans -= (2 - groups);
         }
 
-        return result;
+        return ans;
     }
 };
