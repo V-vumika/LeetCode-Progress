@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/V-vumika/LeetCode-Progress/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/V-vumika/LeetCode-Progress/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/V-vumika/LeetCode-Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/V-vumika/LeetCode-Progress/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/V-vumika/LeetCode-Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1872-stone-game-viii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Nim Game
 |  |
 | ------- |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/V-vumika/LeetCode-Progress/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
