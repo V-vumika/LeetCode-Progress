@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/V-vumika/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/V-vumika/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -142,10 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/V-vumika/LeetCode-Progress/tree/master/2029-stone-game-ix) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/V-vumika/LeetCode-Progress/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/V-vumika/LeetCode-Progress/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/V-vumika/LeetCode-Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -264,4 +269,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/V-vumika/LeetCode-Progress/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
