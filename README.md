@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/V-vumika/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/V-vumika/LeetCode-Progress/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/V-vumika/LeetCode-Progress/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Divide and Conquer
