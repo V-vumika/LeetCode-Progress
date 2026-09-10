@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/V-vumika/LeetCode-Progress/tree/master/0043-multiply-strings) |
 | [1927-sum-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/V-vumika/LeetCode-Progress/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1140-stone-game-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -298,4 +301,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
