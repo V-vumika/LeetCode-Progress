@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/V-vumika/LeetCode-Progress/tree/master/0043-multiply-strings) |
 | [1927-sum-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/V-vumika/LeetCode-Progress/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1140-stone-game-ii) |
@@ -303,9 +305,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
