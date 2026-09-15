@@ -1,9 +1,9 @@
 class Solution {
 public:
     bool isValidSudoku(vector<vector<char>>& board) {
-        vector<unordered_set<char>> rows(9);
-        vector<unordered_set<char>> cols(9);
-        vector<unordered_set<char>> boxes(9);
+        int rows[9] = {0};
+        int cols[9] = {0};
+        int boxes[9] = {0};
         
         for (int r = 0; r < 9; r++) {
             for (int c = 0; c < 9; c++) {
@@ -11,15 +11,16 @@ public:
                 
                 if (val == '.') continue;
                 
+                int bit = 1 << (val - '0'); // digit কে bitmask এ কনভার্ট করা
                 int boxIndex = (r / 3) * 3 + (c / 3);
                 
-                if (rows[r].count(val) || cols[c].count(val) || boxes[boxIndex].count(val)) {
+                if ((rows[r] & bit) || (cols[c] & bit) || (boxes[boxIndex] & bit)) {
                     return false;
                 }
                 
-                rows[r].insert(val);
-                cols[c].insert(val);
-                boxes[boxIndex].insert(val);
+                rows[r] |= bit;
+                cols[c] |= bit;
+                boxes[boxIndex] |= bit;
             }
         }
         
