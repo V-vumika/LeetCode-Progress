@@ -1,7 +1,6 @@
 class Solution {
 public:
     void solveSudoku(vector<vector<char>>& board) {
-        // প্রতিটা row, col, box এর জন্য bitmask ইনিশিয়ালাইজ করা
         int rows[9] = {0}, cols[9] = {0}, boxes[9] = {0};
         
         for (int r = 0; r < 9; r++) {
@@ -20,13 +19,13 @@ public:
     
 private:
     bool backtrack(vector<vector<char>>& board, int rows[], int cols[], int boxes[], int pos) {
-        if (pos == 81) return true; // সব সেল ভরা হয়ে গেছে
+        if (pos == 81) return true; 
         
         int r = pos / 9;
         int c = pos % 9;
         
         if (board[r][c] != '.') {
-            return backtrack(board, rows, cols, boxes, pos + 1); // আগে থেকে ভরা সেল skip
+            return backtrack(board, rows, cols, boxes, pos + 1); 
         }
         
         int b = (r / 3) * 3 + (c / 3);
@@ -49,6 +48,6 @@ private:
             boxes[b] &= ~bit;
         }
         
-        return false;
+        return false; 
     }
 };
