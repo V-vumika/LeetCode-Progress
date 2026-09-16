@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/V-vumika/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/V-vumika/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/V-vumika/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [1020-number-of-enclaves](https://github.com/V-vumika/LeetCode-Progress/tree/master/1020-number-of-enclaves) |
 ## String
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/V-vumika/LeetCode-Progress/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/V-vumika/LeetCode-Progress/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/V-vumika/LeetCode-Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -320,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/V-vumika/LeetCode-Progress/tree/master/0836-rectangle-overlap) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
