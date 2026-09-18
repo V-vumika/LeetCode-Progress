@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/V-vumika/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/V-vumika/LeetCode-Progress/tree/master/0046-permutations) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/V-vumika/LeetCode-Progress/tree/master/0046-permutations) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
