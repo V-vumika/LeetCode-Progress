@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/V-vumika/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/V-vumika/LeetCode-Progress/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0047-permutations-ii) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/V-vumika/LeetCode-Progress/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/V-vumika/LeetCode-Progress/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1140-stone-game-ii) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -351,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/V-vumika/LeetCode-Progress/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/V-vumika/LeetCode-Progress/tree/master/0101-symmetric-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
