@@ -1,28 +1,35 @@
 class Solution {
 public:
     bool isMatch(string s, string p) {
+        int i = 0, j = 0;
+        int starIdx = -1;   
+        int match = 0;      
         int m = s.length(), n = p.length();
         
-        vector<vector<bool>> dp(m + 1, vector<bool>(n + 1, false));
-        dp[0][0] = true;
-        
-        for (int j = 1; j <= n; j++) {
-            if (p[j - 1] == '*') {
-                dp[0][j] = dp[0][j - 1];
-            }
-        }
-        
-        for (int i = 1; i <= m; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (p[j - 1] == '*') {
+        while (i < m) {
+            if (j < n && (p[j] == '?' || p[j] == s[i])) {
+              
+                i++;
+                j++;
+            } else if (j < n && p[j] == '*') {
+               
+                starIdx = j;
+                match = i;
+                j++;
+            } else if (starIdx != -1) {
                 
-                    dp[i][j] = dp[i][j - 1] || dp[i - 1][j];
-                } else if (p[j - 1] == '?' || p[j - 1] == s[i - 1]) {
-                    dp[i][j] = dp[i - 1][j - 1];
-                }
+                j = starIdx + 1;
+                match++;
+                i = match;
+            } else {
+                return false;
             }
         }
         
-        return dp[m][n];
+        while (j < n && p[j] == '*') {
+            j++;
+        }
+        
+        return j == n;
     }
 };
