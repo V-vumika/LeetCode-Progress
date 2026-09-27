@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/V-vumika/LeetCode-Progress/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/V-vumika/LeetCode-Progress/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/V-vumika/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/1140-stone-game-ii) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/V-vumika/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/V-vumika/LeetCode-Progress/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/V-vumika/LeetCode-Progress/tree/master/2029-stone-game-ix) |
