@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/V-vumika/LeetCode-Progress/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/V-vumika/LeetCode-Progress/tree/master/0044-wildcard-matching) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/V-vumika/LeetCode-Progress/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/V-vumika/LeetCode-Progress/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -342,12 +343,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Geometry
 |  |
 | ------- |
