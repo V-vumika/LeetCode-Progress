@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/V-vumika/LeetCode-Progress/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/V-vumika/LeetCode-Progress/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/V-vumika/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/V-vumika/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/V-vumika/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0877-stone-game) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/V-vumika/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
