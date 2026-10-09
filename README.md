@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/V-vumika/LeetCode-Progress/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/V-vumika/LeetCode-Progress/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/V-vumika/LeetCode-Progress/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/V-vumika/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/V-vumika/LeetCode-Progress/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/V-vumika/LeetCode-Progress/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/V-vumika/LeetCode-Progress/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
