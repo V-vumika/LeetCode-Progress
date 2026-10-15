@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/V-vumika/LeetCode-Progress/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/V-vumika/LeetCode-Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/V-vumika/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/V-vumika/LeetCode-Progress/tree/master/1386-cinema-seat-allocation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/V-vumika/LeetCode-Progress/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/V-vumika/LeetCode-Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/V-vumika/LeetCode-Progress/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/V-vumika/LeetCode-Progress/tree/master/0141-linked-list-cycle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
