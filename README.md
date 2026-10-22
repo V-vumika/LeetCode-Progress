@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/V-vumika/LeetCode-Progress/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/V-vumika/LeetCode-Progress/tree/master/0062-unique-paths) |
+| [0171-excel-sheet-column-number](https://github.com/V-vumika/LeetCode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [0486-predict-the-winner](https://github.com/V-vumika/LeetCode-Progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/V-vumika/LeetCode-Progress/tree/master/0836-rectangle-overlap) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/V-vumika/LeetCode-Progress/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/V-vumika/LeetCode-Progress/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/V-vumika/LeetCode-Progress/tree/master/0071-simplify-path) |
+| [0171-excel-sheet-column-number](https://github.com/V-vumika/LeetCode-Progress/tree/master/0171-excel-sheet-column-number) |
 | [1021-remove-outermost-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/1927-sum-game) |
