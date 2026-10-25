@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/V-vumika/LeetCode-Progress/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/V-vumika/LeetCode-Progress/tree/master/0071-simplify-path) |
 | [0171-excel-sheet-column-number](https://github.com/V-vumika/LeetCode-Progress/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/V-vumika/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/1927-sum-game) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/V-vumika/LeetCode-Progress/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/V-vumika/LeetCode-Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/V-vumika/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/V-vumika/LeetCode-Progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/V-vumika/LeetCode-Progress/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/V-vumika/LeetCode-Progress/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/V-vumika/LeetCode-Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/V-vumika/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/V-vumika/LeetCode-Progress/tree/master/1386-cinema-seat-allocation) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
