@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/V-vumika/LeetCode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/V-vumika/LeetCode-Progress/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/V-vumika/LeetCode-Progress/tree/master/0101-symmetric-tree) |
 | [1020-number-of-enclaves](https://github.com/V-vumika/LeetCode-Progress/tree/master/1020-number-of-enclaves) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/V-vumika/LeetCode-Progress/tree/master/0071-simplify-path) |
+| [0094-binary-tree-inorder-traversal](https://github.com/V-vumika/LeetCode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -429,11 +431,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/V-vumika/LeetCode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/V-vumika/LeetCode-Progress/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/V-vumika/LeetCode-Progress/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/V-vumika/LeetCode-Progress/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/V-vumika/LeetCode-Progress/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/V-vumika/LeetCode-Progress/tree/master/0101-symmetric-tree) |
 ## Monotonic Stack
