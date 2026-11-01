@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/V-vumika/LeetCode-Progress/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0059-spiral-matrix-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/V-vumika/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/V-vumika/LeetCode-Progress/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [1020-number-of-enclaves](https://github.com/V-vumika/LeetCode-Progress/tree/master/1020-number-of-enclaves) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Matrix
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/V-vumika/LeetCode-Progress/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/V-vumika/LeetCode-Progress/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/V-vumika/LeetCode-Progress/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/V-vumika/LeetCode-Progress/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/V-vumika/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/V-vumika/LeetCode-Progress/tree/master/0242-valid-anagram) |
