@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/V-vumika/LeetCode-Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/V-vumika/LeetCode-Progress/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/V-vumika/LeetCode-Progress/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/V-vumika/LeetCode-Progress/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/V-vumika/LeetCode-Progress/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/V-vumika/LeetCode-Progress/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/V-vumika/LeetCode-Progress/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0059-spiral-matrix-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/V-vumika/LeetCode-Progress/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/V-vumika/LeetCode-Progress/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Bit Manipulation
 |  |
