@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/V-vumika/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/V-vumika/LeetCode-Progress/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/V-vumika/LeetCode-Progress/tree/master/0217-contains-duplicate) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/V-vumika/LeetCode-Progress/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/V-vumika/LeetCode-Progress/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/V-vumika/LeetCode-Progress/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/V-vumika/LeetCode-Progress/tree/master/0143-reorder-list) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/V-vumika/LeetCode-Progress/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/V-vumika/LeetCode-Progress/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/V-vumika/LeetCode-Progress/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/V-vumika/LeetCode-Progress/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/V-vumika/LeetCode-Progress/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/V-vumika/LeetCode-Progress/tree/master/0347-top-k-frequent-elements) |
@@ -479,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/V-vumika/LeetCode-Progress/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/V-vumika/LeetCode-Progress/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/V-vumika/LeetCode-Progress/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
