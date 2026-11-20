@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/V-vumika/LeetCode-Progress/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/V-vumika/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/V-vumika/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/V-vumika/LeetCode-Progress/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/V-vumika/LeetCode-Progress/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/V-vumika/LeetCode-Progress/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/V-vumika/LeetCode-Progress/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/V-vumika/LeetCode-Progress/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/V-vumika/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [1020-number-of-enclaves](https://github.com/V-vumika/LeetCode-Progress/tree/master/1020-number-of-enclaves) |
 ## String
 |  |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/V-vumika/LeetCode-Progress/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/V-vumika/LeetCode-Progress/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/V-vumika/LeetCode-Progress/tree/master/2089-find-target-indices-after-sorting-array) |
